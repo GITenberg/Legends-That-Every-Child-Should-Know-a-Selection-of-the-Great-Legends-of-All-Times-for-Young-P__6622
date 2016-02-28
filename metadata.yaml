@@ -1,0 +1,37 @@
+_repo: Legends-That-Every-Child-Should-Know-a-Selection-of-the-Great-Legends-of-All-Times-for-Young-P__6622
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: A fantastic collection of 19 essential mythological tales for children,
+  from Beowulf, to the death of King Arthur, to the Legend of Sleepy Hollow.
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Children's Anthologies
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore -- England'
+- !lcsh 'Folklore -- Scandinavia'
+- !lcsh 'Folklore -- Germany'
+tableOfContents: Hiawatha -- Beowulf -- Childe Horne -- Sir Galahad -- Rustem and
+  Sohrab -- The seven sleepers of Ephesus -- Guy of Warwick -- Chevy Chase -- The
+  fate of the children of Lir -- The beleaguered city -- Prester John -- The wandering
+  Jew -- King Robert of Sicily -- The life of the Beato Torello da Poppi -- The Lorelei
+  -- The passing of Arthur -- Rip Van Winkle -- The gray champion -- The legend of
+  Sleepy Hollow.
+title: Legends That Every Child Should Know; a Selection of the Great Legends of All
+  Times for Young People
+url: http://www.gutenberg.org/ebooks/6622
